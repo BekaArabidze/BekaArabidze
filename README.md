@@ -29,6 +29,7 @@
 
 ### Fraimworks
 [![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
+[![Next](https://img.shields.io/badge/next%20-%2320232a.svg?&style=for-the-badge&logo=next&logoColor=white)]()
 [![Tailwind](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black)]()
 <br /> 
