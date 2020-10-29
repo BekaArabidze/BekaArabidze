@@ -12,7 +12,6 @@
 - 🎴 currently working on personal project
 - 🌱 love to learn new things 
 - ⚪ Love reading
-- ⚡ love designing and building usefull junk
 
 <br />
 
